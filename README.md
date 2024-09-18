@@ -1,5 +1,8 @@
-# Food-Ordering
-Responsive Restaurant Website for ordering food. Developed a fully responsive restaurant website utilizing React for the frontend and Node.js with Express for the backend. Integrated 
-MongoDB to manage menu items and reservations. Implemented features including online booking, interactive menu displays, and 
-customer feedback forms, enhancing user engagement and streamlining operations. Ensured optimal performance and cross-browser 
-compatibility through rigorous testing and debugging
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
